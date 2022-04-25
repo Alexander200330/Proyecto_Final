@@ -1,0 +1,66 @@
+D:\Usuarios\Escritorio\Proyecto\Solución_SellPoint\CapaPresentación\obj\Debug\CapaPresentación.csproj.AssemblyReference.cache
+D:\Usuarios\Escritorio\Proyecto\Solución_SellPoint\CapaPresentación\obj\Debug\CapaPresentación.csproj.SuggestedBindingRedirects.cache
+D:\Usuarios\Escritorio\Proyecto\Solución_SellPoint\CapaPresentación\obj\Debug\CapaPresentación.Login.resources
+D:\Usuarios\Escritorio\Proyecto\Solución_SellPoint\CapaPresentación\obj\Debug\CapaPresentación.MenuPrincipal.resources
+D:\Usuarios\Escritorio\Proyecto\Solución_SellPoint\CapaPresentación\obj\Debug\CapaPresentación.Properties.Resources.resources
+D:\Usuarios\Escritorio\Proyecto\Solución_SellPoint\CapaPresentación\obj\Debug\Proyecto_FinalP2.SplashScreen.resources
+D:\Usuarios\Escritorio\Proyecto\Solución_SellPoint\CapaPresentación\obj\Debug\CapaPresentación.csproj.GenerateResource.cache
+D:\Usuarios\Escritorio\Proyecto\Solución_SellPoint\CapaPresentación\obj\Debug\CapaPresentación.csproj.CoreCompileInputs.cache
+D:\Usuarios\Escritorio\Proyecto\Solución_SellPoint\CapaPresentación\obj\Debug\Proyecto_FinalP2.Menu_Principal.Sistema.AcercaDe.resources
+D:\Usuarios\Escritorio\Proyecto\Solución_SellPoint\CapaPresentación\bin\Debug\CapaPresentación.exe.config
+D:\Usuarios\Escritorio\Proyecto\Solución_SellPoint\CapaPresentación\bin\Debug\CapaPresentación.exe
+D:\Usuarios\Escritorio\Proyecto\Solución_SellPoint\CapaPresentación\bin\Debug\CapaPresentación.pdb
+D:\Usuarios\Escritorio\Proyecto\Solución_SellPoint\CapaPresentación\bin\Debug\CapaNegocio.dll
+D:\Usuarios\Escritorio\Proyecto\Solución_SellPoint\CapaPresentación\bin\Debug\CapaNegocio.pdb
+D:\Usuarios\Escritorio\Proyecto\Solución_SellPoint\CapaPresentación\obj\Debug\CapaPresentación.csproj.CopyComplete
+D:\Usuarios\Escritorio\Proyecto\Solución_SellPoint\CapaPresentación\obj\Debug\CapaPresentación.exe
+D:\Usuarios\Escritorio\Proyecto\Solución_SellPoint\CapaPresentación\obj\Debug\CapaPresentación.pdb
+D:\Usuarios\Escritorio\Proyecto\Solución_SellPoint\CapaPresentación\obj\Debug\Proyecto_FinalP2.Menu_Principal.Entidades.resources
+D:\Usuarios\Escritorio\Proyecto\Solución_SellPoint\CapaPresentación\obj\Debug\Proyecto_FinalP2.Menu_Principal.Tipos_Entidades.resources
+D:\Usuarios\Escritorio\Proyecto\Solución_SellPoint\CapaPresentación\obj\Debug\CapaPresentación.Menu_Principal.Sistema.GrupoEntidades.resources
+D:\Usuarios\Escritorio\4to Cuatrimestre\Diseño centrado al usuario\Proyecto_Final\Solución_SellPoint\CapaPresentación\obj\Debug\CapaPresentación.csproj.AssemblyReference.cache
+D:\Usuarios\Escritorio\4to Cuatrimestre\Diseño centrado al usuario\Proyecto_Final\Solución_SellPoint\CapaPresentación\obj\Debug\CapaPresentación.csproj.SuggestedBindingRedirects.cache
+D:\Usuarios\Escritorio\4to Cuatrimestre\Diseño centrado al usuario\Proyecto_Final\Solución_SellPoint\CapaPresentación\obj\Debug\CapaPresentación.Estudiantes.resources
+D:\Usuarios\Escritorio\4to Cuatrimestre\Diseño centrado al usuario\Proyecto_Final\Solución_SellPoint\CapaPresentación\obj\Debug\CapaPresentación.Login.resources
+D:\Usuarios\Escritorio\4to Cuatrimestre\Diseño centrado al usuario\Proyecto_Final\Solución_SellPoint\CapaPresentación\obj\Debug\Proyecto_FinalP2.Menu_Principal.Sistema.AcercaDe.resources
+D:\Usuarios\Escritorio\4to Cuatrimestre\Diseño centrado al usuario\Proyecto_Final\Solución_SellPoint\CapaPresentación\obj\Debug\Proyecto_FinalP2.Menu_Principal.Tipos_Entidades.resources
+D:\Usuarios\Escritorio\4to Cuatrimestre\Diseño centrado al usuario\Proyecto_Final\Solución_SellPoint\CapaPresentación\obj\Debug\CapaPresentación.MenuPrincipal.resources
+D:\Usuarios\Escritorio\4to Cuatrimestre\Diseño centrado al usuario\Proyecto_Final\Solución_SellPoint\CapaPresentación\obj\Debug\CapaPresentación.Properties.Resources.resources
+D:\Usuarios\Escritorio\4to Cuatrimestre\Diseño centrado al usuario\Proyecto_Final\Solución_SellPoint\CapaPresentación\obj\Debug\Proyecto_FinalP2.SplashScreen.resources
+D:\Usuarios\Escritorio\4to Cuatrimestre\Diseño centrado al usuario\Proyecto_Final\Solución_SellPoint\CapaPresentación\obj\Debug\CapaPresentación.csproj.GenerateResource.cache
+D:\Usuarios\Escritorio\4to Cuatrimestre\Diseño centrado al usuario\Proyecto_Final\Solución_SellPoint\CapaPresentación\obj\Debug\CapaPresentación.csproj.CoreCompileInputs.cache
+D:\Usuarios\Escritorio\4to Cuatrimestre\Diseño centrado al usuario\Proyecto_Final\Solución_SellPoint\CapaPresentación\obj\Debug\CapaPresentación.exe
+D:\Usuarios\Escritorio\4to Cuatrimestre\Diseño centrado al usuario\Proyecto_Final\Solución_SellPoint\CapaPresentación\obj\Debug\CapaPresentación.pdb
+D:\Usuarios\Escritorio\4to Cuatrimestre\Diseño centrado al usuario\Proyecto_Final\Solución_SellPoint\CapaPresentación\bin\Debug\CapaPresentación.exe.config
+D:\Usuarios\Escritorio\4to Cuatrimestre\Diseño centrado al usuario\Proyecto_Final\Solución_SellPoint\CapaPresentación\bin\Debug\CapaPresentación.exe
+D:\Usuarios\Escritorio\4to Cuatrimestre\Diseño centrado al usuario\Proyecto_Final\Solución_SellPoint\CapaPresentación\bin\Debug\CapaPresentación.pdb
+D:\Usuarios\Escritorio\4to Cuatrimestre\Diseño centrado al usuario\Proyecto_Final\Solución_SellPoint\CapaPresentación\bin\Debug\CapaNegocio.dll
+D:\Usuarios\Escritorio\4to Cuatrimestre\Diseño centrado al usuario\Proyecto_Final\Solución_SellPoint\CapaPresentación\bin\Debug\CapaDatos.dll
+D:\Usuarios\Escritorio\4to Cuatrimestre\Diseño centrado al usuario\Proyecto_Final\Solución_SellPoint\CapaPresentación\bin\Debug\CapaNegocio.pdb
+D:\Usuarios\Escritorio\4to Cuatrimestre\Diseño centrado al usuario\Proyecto_Final\Solución_SellPoint\CapaPresentación\bin\Debug\CapaDatos.pdb
+D:\Usuarios\Escritorio\4to Cuatrimestre\Diseño centrado al usuario\Proyecto_Final\Solución_SellPoint\CapaPresentación\obj\Debug\CapaPresentación.csproj.CopyComplete
+D:\Usuarios\Escritorio\4to Cuatrimestre\Diseño centrado al usuario\Proyecto_Final\Solución_SellPoint\CapaPresentación\obj\Debug\CapaPresentación.Profesores.resources
+D:\Usuarios\Escritorio\4to Cuatrimestre\Diseño centrado al usuario\Proyecto_Final\Solución_SellPoint\CapaPresentación\obj\Debug\CapaPresentación.Empleados.resources
+D:\Usuarios\Escritorio\DCU\Solución_SellPoint\CapaPresentación\bin\Debug\CapaPresentación.exe.config
+D:\Usuarios\Escritorio\DCU\Solución_SellPoint\CapaPresentación\bin\Debug\CapaPresentación.exe
+D:\Usuarios\Escritorio\DCU\Solución_SellPoint\CapaPresentación\bin\Debug\CapaPresentación.pdb
+D:\Usuarios\Escritorio\DCU\Solución_SellPoint\CapaPresentación\bin\Debug\CapaNegocio.dll
+D:\Usuarios\Escritorio\DCU\Solución_SellPoint\CapaPresentación\bin\Debug\CapaDatos.dll
+D:\Usuarios\Escritorio\DCU\Solución_SellPoint\CapaPresentación\bin\Debug\CapaNegocio.pdb
+D:\Usuarios\Escritorio\DCU\Solución_SellPoint\CapaPresentación\bin\Debug\CapaDatos.pdb
+D:\Usuarios\Escritorio\DCU\Solución_SellPoint\CapaPresentación\obj\Debug\CapaPresentación.csproj.AssemblyReference.cache
+D:\Usuarios\Escritorio\DCU\Solución_SellPoint\CapaPresentación\obj\Debug\CapaPresentación.csproj.SuggestedBindingRedirects.cache
+D:\Usuarios\Escritorio\DCU\Solución_SellPoint\CapaPresentación\obj\Debug\CapaPresentación.Empleados.resources
+D:\Usuarios\Escritorio\DCU\Solución_SellPoint\CapaPresentación\obj\Debug\CapaPresentación.Estudiantes.resources
+D:\Usuarios\Escritorio\DCU\Solución_SellPoint\CapaPresentación\obj\Debug\CapaPresentación.Login.resources
+D:\Usuarios\Escritorio\DCU\Solución_SellPoint\CapaPresentación\obj\Debug\Proyecto_FinalP2.Menu_Principal.Sistema.AcercaDe.resources
+D:\Usuarios\Escritorio\DCU\Solución_SellPoint\CapaPresentación\obj\Debug\CapaPresentación.MenuPrincipal.resources
+D:\Usuarios\Escritorio\DCU\Solución_SellPoint\CapaPresentación\obj\Debug\CapaPresentación.Profesores.resources
+D:\Usuarios\Escritorio\DCU\Solución_SellPoint\CapaPresentación\obj\Debug\CapaPresentación.Properties.Resources.resources
+D:\Usuarios\Escritorio\DCU\Solución_SellPoint\CapaPresentación\obj\Debug\Proyecto_FinalP2.SplashScreen.resources
+D:\Usuarios\Escritorio\DCU\Solución_SellPoint\CapaPresentación\obj\Debug\CapaPresentación.csproj.GenerateResource.cache
+D:\Usuarios\Escritorio\DCU\Solución_SellPoint\CapaPresentación\obj\Debug\CapaPresentación.csproj.CoreCompileInputs.cache
+D:\Usuarios\Escritorio\DCU\Solución_SellPoint\CapaPresentación\obj\Debug\CapaPresentación.csproj.CopyComplete
+D:\Usuarios\Escritorio\DCU\Solución_SellPoint\CapaPresentación\obj\Debug\CapaPresentación.exe
+D:\Usuarios\Escritorio\DCU\Solución_SellPoint\CapaPresentación\obj\Debug\CapaPresentación.pdb
+D:\Usuarios\Escritorio\DCU\Solución_SellPoint\CapaPresentación\obj\Debug\CapaPresentación.Ayuda.resources
